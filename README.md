@@ -11,7 +11,7 @@ Welcome to my compilation of activities and projects! Below, you'll find a summa
 3. [Machine Learning](#machine-learning)
 4. [Quantitative Methods](#quantitative-methods)
 5. <a href="Amazon-Prime-Videos-Analysis/README.md">Amazon Prime</a>
-6. <a href="Amazon-Prime-Videos-Analysis/Amazon.ipynb">Amazon Prime Code</a>
+6. <a href="[Amazon-Prime-Videos-Analysis/Amazon.ipynb](https://colab.research.google.com/drive/1MBpbgrHbtJrRxnoT4XP_L8BZGOj-lROQ)">Amazon Prime Code</a>
 
 ## Computer Courses
 
